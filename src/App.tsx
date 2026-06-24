@@ -1,5 +1,4 @@
 // @ts-nocheck
-// @ts-nocheck
 import { useState, useEffect, useCallback } from "react";
 
 // ╔══════════════════════════════════════════════════════════════════╗
